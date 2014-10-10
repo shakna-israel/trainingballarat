@@ -1,9 +1,10 @@
 ---
 layout: question
-title:  "Services"
-date:   2014-04-25 16:54:46
+title:  "Workplace Training"
+date:   2014-01-03 16:54:46
 author: Charles Milne
-image: about.jpg
+image: 1072216_52298388.jpg
+fontawesome: fa-briefcase
 categories:
 - question
 ---

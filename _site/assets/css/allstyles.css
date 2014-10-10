@@ -7290,7 +7290,7 @@ body {
   background: #ffffff;
   margin: 0;
   height: 100%;
-  color: #384452;
+  color: #333333;
   font-family: 'Lato', sans-serif;
   font-weight: 400; }
 
@@ -7305,7 +7305,7 @@ p {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #384452;
+  color: #333333;
   margin-top: 10px; }
 
 img {
@@ -7331,12 +7331,12 @@ a:focus {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background: #384452; }
+  background: #333333; }
 
 ::selection {
   color: #fff;
   text-shadow: none;
-  background: #384452; }
+  background: #333333; }
 
 .centered {
   text-align: center; }
@@ -7352,6 +7352,12 @@ a:focus {
 .navbar-brand {
   font-family: 'Raleway', sans-serif;
   font-weight: 900; }
+
+#service_header a {
+  color: #333333; }
+
+#service_header a:hover {
+  color: #5c5a59; }
 
 .navbar-header .navbar-brand {
   color: white; }
@@ -7369,11 +7375,11 @@ a:focus {
   background-color: transparent; }
 
 .navbar-default {
-  background-color: #384452;
+  background-color: #333333;
   border-color: transparent; }
 
 .dropdown-menu {
-  background: #384452; }
+  background: #333333; }
 
 .dropdown-menu > li > a {
   color: white;
@@ -7382,8 +7388,8 @@ a:focus {
 
 .btn-theme {
   color: #fff;
-  background-color: #384452;
-  border-color: #384452;
+  background-color: #333333;
+  border-color: #333333;
   margin: 4px; }
 
 .btn-theme:hover,
@@ -7438,7 +7444,7 @@ a:focus {
   margin-top: 60px; }
 
 .hline {
-  border-bottom: 2px solid #384452; }
+  border-bottom: 2px solid #333333; }
 
 .hline-w {
   border-bottom: 2px solid #ffffff;
@@ -7576,7 +7582,7 @@ a:focus {
 #footerwrap {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #384452; }
+  background: #333333; }
 
 #footerwrap p {
   color: #bfc9d3; }

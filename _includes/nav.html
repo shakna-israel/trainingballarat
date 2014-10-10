@@ -13,16 +13,8 @@
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
-        {% if site.data.site.blog_enabled %}
-        <li {% if page.title == "Blog" %}class="active"{% endif %}><a href="{{"/blog/" | prepend: site.baseurl }}">BLOG</a></li>
-        {% endif %}
-        {% if site.data.site.portfolio_enabled %}
-        <li {% if page.title == "Portfolio" %}class="active"{% endif %}><a href="{{"/portfolio/" | prepend: site.baseurl }}">PORTFOLIO</a></li>
-        {% endif %}
         <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">ABOUT</a></li>
-        {% if site.data.site.faq_enabled %}
-        <li {% if page.title == "Frequently Asked Questions" %}class="active"{% endif %}><a href="{{"/faq/" | prepend: site.baseurl }}">FAQ</a></li>
-        {% endif %}
+        <li {% if page.title == "Services" %}class="active"{% endif %}><a href="{{"/services/" | prepend: site.baseurl }}">SERVICES</a></li>
         <li {% if page.title == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">CONTACT</a></li>
       </ul>
     </div><!--/.nav-collapse -->

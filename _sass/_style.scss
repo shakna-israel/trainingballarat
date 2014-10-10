@@ -102,6 +102,14 @@ a:focus {
 	font-weight: 900;
 }
 
+#service_header a{
+  color: $secondary;
+}
+
+#service_header a:hover{
+  color: $secondary_half;
+}
+
 .navbar-header .navbar-brand {
 	color: white;
 }
@@ -502,7 +510,7 @@ csmall {
   font-weight: bold !important;
   text-align: center !important;
   color: #3E94B8 !important;
-  
+
 }
 
 .titleB {

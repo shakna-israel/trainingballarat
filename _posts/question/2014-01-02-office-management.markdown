@@ -1,9 +1,10 @@
 ---
 layout: question
-title:  "Services"
-date:   2014-04-25 16:54:46
+title:  "Office Management"
+date:   2014-01-02 16:54:46
 author: Charles Milne
-image: about.jpg
+image: 911635_34803628.jpg
+fontawesome: fa-building-o
 categories:
 - question
 ---
