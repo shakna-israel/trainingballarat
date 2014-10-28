@@ -3,22 +3,22 @@
   <channel>
     <title>Training Ballarat</title>
     <description>Workplace Training, Office Management and Staff Analysis.</description>
-    <link>http://jmilne.com.au/</link>
-    <atom:link href="http://jmilne.com.au/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Oct 2014 14:34:18 +1100</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2014 14:34:18 +1100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 29 Oct 2014 01:30:42 +1100</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2014 01:30:42 +1100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>Question: Workplace Training</title>
         <description>&lt;h4 id=&quot;workplace-training&quot;&gt;Workplace Training&lt;/h4&gt;
-&lt;p&gt;100 - 250 words.&lt;/p&gt;
+&lt;p&gt;With more than 20 Years of training and re-training staff within intense workplace environments, as well as developing programs, policies and procedures to ensure that said training doesn’t lapse out of use before it pays for itself, you can be rest assured, that it gets done.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;a href=&quot;/contact/&quot; class=&quot;btn btn-theme&quot;&gt;Contact Us!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Jan 2014 03:54:46 +1100</pubDate>
-        <link>http://jmilne.com.au/question/workplace-training</link>
-        <guid isPermaLink="true">http://jmilne.com.au/question/workplace-training</guid>
+        <link>/question/workplace-training</link>
+        <guid isPermaLink="true">/question/workplace-training</guid>
         
         
         <category>question</category>
@@ -28,13 +28,13 @@
       <item>
         <title>Question: Office Management</title>
         <description>&lt;h4 id=&quot;office-management&quot;&gt;Office Management&lt;/h4&gt;
-&lt;p&gt;100 - 250 words.&lt;/p&gt;
+&lt;p&gt;Managing an office is a delicate operation, balancing many economical factors such as finances, personal relationships and aptitudes, skills, and procedures. With years of team management and workplace analysis, it won’t take long to take your office to peak effeciency.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;a href=&quot;/contact/&quot; class=&quot;btn btn-theme&quot;&gt;Contact Us!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Jan 2014 03:54:46 +1100</pubDate>
-        <link>http://jmilne.com.au/question/office-management</link>
-        <guid isPermaLink="true">http://jmilne.com.au/question/office-management</guid>
+        <link>/question/office-management</link>
+        <guid isPermaLink="true">/question/office-management</guid>
         
         
         <category>question</category>
@@ -44,13 +44,13 @@
       <item>
         <title>Question: Staff Analysis</title>
         <description>&lt;h4 id=&quot;staff-analysis&quot;&gt;Staff Analysis&lt;/h4&gt;
-&lt;p&gt;100 - 250 words.&lt;/p&gt;
+&lt;p&gt;Analysing staff is one of the key, but most hated, procedures in managing a business. It involves looking at staff track records, skills, &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;a href=&quot;/contact/&quot; class=&quot;btn btn-theme&quot;&gt;Contact Us!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Jan 2014 03:54:46 +1100</pubDate>
-        <link>http://jmilne.com.au/question/staff-analysis</link>
-        <guid isPermaLink="true">http://jmilne.com.au/question/staff-analysis</guid>
+        <link>/question/staff-analysis</link>
+        <guid isPermaLink="true">/question/staff-analysis</guid>
         
         
         <category>question</category>

@@ -9,6 +9,6 @@ categories:
 - question
 ---
 #### Workplace Training
-100 - 250 words.
+With more than 20 Years of training and re-training staff within intense workplace environments, as well as developing programs, policies and procedures to ensure that said training doesn't lapse out of use before it pays for itself, you can be rest assured, that it gets done.
 
 <p><br/><a href="{{ "/contact/" | prepend: site.baseurl }}" class="btn btn-theme">Contact Us!</a></p>
