@@ -3,7 +3,7 @@
 # Site settings
 title: Training Ballarat
 description: "Workplace Training, Office Management and Staff Analysis."
-baseurl: "//shakna-israel.github.io/trainingballarat/"
+baseurl: ""
 url: ""
 
 # Build settings
